@@ -1,10 +1,10 @@
-## 스크립트언어 활용 - 웹페이지 만들기
+# 스크립트언어 활용 - 웹페이지 만들기
 
 > 스크립트언어를 활용하여 학교 홈페이지 만들기
 
 ---
 
-# header
+## header
 
     header는 div#logo와 div#top로 이루어져 있고,
 
@@ -15,7 +15,7 @@
 ![image](https://github.com/ijijijijiji/web_sungil_info/assets/129851513/88378640-54e4-441f-925d-a6785770f528)  ![image](https://github.com/ijijijijiji/web_sungil_info/assets/129851513/b5dd6bd6-b326-429b-93e3-4a77fdc55f37)
 
 
-# section
+## section
 
     section는 이미지 슬라이드 부분이다.
 
